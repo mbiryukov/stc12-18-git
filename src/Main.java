@@ -6,4 +6,7 @@ public class Main {
         System.out.println("Third string");
     }
 
+    public static void anotherMethod() {
+        System.out.println("Hi");
+    }
 }
