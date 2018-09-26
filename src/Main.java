@@ -4,6 +4,9 @@ public class Main {
         System.out.println("Some code");
         System.out.println("Some code");
         System.out.println("Third string");
+
+        System.out.println("String from another developer");
+        System.out.println("Yet another string from another dev");
     }
 
 }
